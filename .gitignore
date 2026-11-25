@@ -1,0 +1,6 @@
+venv/
+.venv/
+env/
+.claude/
+CLAUDE.md
+.agents/
